@@ -11,4 +11,7 @@ fun main() {
     println("This is jus for testing4")
 
     print("This is from test branch")
+    print("This is from test branch1")
+    print("This is from test branch2")
+    print("This is from test branch3")
 }
